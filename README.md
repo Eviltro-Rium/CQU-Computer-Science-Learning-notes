@@ -20,7 +20,7 @@
 在 GitHub 仓库页面点击 **Code → Download ZIP** 下载全部资料；也可以使用 Git 克隆到本地：
 
 ```bash
-git clone https://github.com/Eviltro-Rium/---.git
+git clone https://github.com/Eviltro-Rium/CQU-Computer-Science-Learning-notes.git
 ```
 
 Markdown 文件可直接在 GitHub 上阅读；PDF、演示文稿和实验报告可下载后使用相应软件打开。Python 实验的运行环境和依赖可能因实验而异，请先查看对应代码和数据路径。
