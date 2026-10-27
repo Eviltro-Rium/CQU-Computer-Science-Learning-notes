@@ -1,0 +1,42 @@
+Chapter 1
+什么是机器学习
+预测目标：分类，回归，聚类
+泛化能力
+归纳偏好
+Chapter 2
+过拟合、欠拟合
+数据划分：流出资金，交叉，自助
+性能度量，评估指标
+比较检验方法
+偏差，误差
+Chapter 3
+线性回归 最小二乘
+对率回归
+逻辑回归
+二分类转化多分类
+类比不平衡
+Chapter 4
+ID3, C4.5, CART
+划分选择，纯度
+信息增益，基尼指数
+预剪枝，后剪枝
+连续值处理，缺失值处理
+Chapter 5
+感知机
+BP算法
+Chapter 6
+支持向量
+超平面
+Chapter 7
+朴素贝叶斯
+Chapter 8
+bagging boosting
+随机森林
+adaboost
+Chapter 9
+性能度量
+k均值聚类
+层次聚类
+密度聚类
+Chapter 10
+PCA降维
